@@ -1,7 +1,7 @@
-`- 👋 Hi, I’m @that-writer-16
+`- 👋 Hi, I’m TyKia
 - 👀 I’m interested in coding, reading, writing, and photography.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m willing to collaborate on Python, Java, Javascript, HTML, CSS, and React parts of projects.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m willing to collaborate on Python, Javascript, HTML, CSS, React, C++, and C# parts of projects.
 - 📫 How to reach me tykia.m.tucker@gmail.com
 
 <!---
